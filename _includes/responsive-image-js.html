@@ -1,0 +1,12 @@
+{% assign smallest = resized | sort: 'width' | first %}
+{% capture cls %}img_{{original.basename | replace: '.', '_'}}__delayed{% endcapture %}
+
+<div class="responsive-image">
+    <div class="{{cls}}" data-src="/travel/images/resized/{width}/{{ original.basename }}"></div>
+</div>
+<p />
+<script>
+    new Imager(".{{cls}}", {
+        availableWidths: [{{ resized | map: 'width' | join: ', ' }}]
+    });
+</script>

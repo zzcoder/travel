@@ -1,0 +1,96 @@
+---
+layout: post
+title:  "夏威夷之旅 第八天 大岛 西岸"
+date:   2015-12-30
+categories: hawaii 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+![photo]({{site.url}}/images/d8/route_kona.jpg)
+
+游轮慢慢悠悠的开了一晚上，开到了大岛的西面。这段路程开车也就一个半小时。夏威夷大岛是世界上唯一有两个气候带的岛屿。东边多雨，植被茂密。西边阳光充足，以美丽的沙滩闻名。
+
+这是我们行程最短的一天。只去了码头南边三个景点。
+
+{% responsive_image path: images/d8/track_kona.jpg %}
+GPS轨迹  <https://goo.gl/g7JVuN>
+
+----------------------
+
+因为码头太浅, 游轮无法靠岸。我们得坐救生艇上岸。
+{% responsive_image path: images/d8/tender1.jpg %}
+{% responsive_image path: images/d8/tender2.jpg %}
+
+出租车公司来接我们的地点还挺浪漫，在这颗大榕树下。
+{% responsive_image path: images/d8/kona_banyan.jpg %}
+
+这次租了一辆红吉普，在夏威夷开很拉风。
+{% responsive_image path: images/d8/red_jeep.jpg %}
+
+本来打算去看看美国50州的最南端，但距离较远还可能堵车，就改去附近的Puuhonua o Honaunau国家历史公园。
+路过一个小市场，下来买了几个椰子。这市场是一个老剧场改造的，挺有情调，但椰子不敢恭维。
+{% responsive_image path: images/d8/coconut1.jpg %}
+{% responsive_image path: images/d8/coconut2.jpg %}
+
+店里养了个鹦鹉，也爱吃椰蓉。用一只爪子抓住吃。
+{% responsive_image path: images/d8/kona_parrot.jpg %}
+
+Puuhonua o Honaunau内有一出古老的避难所(Place of Refugee)和皇帝的行宫. 
+由于夏威夷原住民没有什么建筑，也没在山上刻什么，没留下什么人文景观。这是我们看到的唯一的文物。
+{% responsive_image path: images/d8/refugee1.jpg %}
+{% responsive_image path: images/d8/refugee2.jpg %}
+{% responsive_image path: images/d8/refugee3.jpg %}
+{% responsive_image path: images/d8/refugee4.jpg %}
+
+这里的风景很美，水里到处都是鱼。这也是夏威夷绿龟保护区，岸边拉着绳子，不让人靠近乌龟。
+{% responsive_image path: images/d8/refugee_ashley.jpg %}
+{% responsive_image path: images/d8/refugee_brandon.jpg %}
+{% responsive_image path: images/d8/refugee_fish.jpg %}
+
+-----------------
+
+然后我们驱车到Kealakekua湾。这是潜水圣地，可以和海龟一同游泳。
+这里可以遥望湾对面的库克船长的雕像。库克是第一个发现夏威夷的欧洲人，死在这里。
+{% responsive_image path: images/d8/cook1.jpg %}
+{% responsive_image path: images/d8/cook_water.jpg %}
+
+-----------------
+
+后来发现这个湾太大，要划船到中央才可下潜，小孩玩不够安全。经当地人指导，
+我们决定去离游轮停泊处不远的Kahaluu海滩。这地方水很浅，但水里鱼类很多，
+斑斓绚丽，站在水里低头就可看到，大家玩的很开心。
+{% responsive_image path: images/d8/kahaluu1.jpg %}
+{% responsive_image path: images/d8/kahaluu2.jpg %}
+
+-------------------
+
+赶在开船前，我们坐救生艇回到了船上。
+{% responsive_image path: images/d8/tender_back.jpg %}
+
+上船就看到了美丽的日落。
+{% responsive_image path: images/d8/kona_sunset1.jpg %}
+
+上船后马上吃晚餐。
+{% responsive_image path: images/d8/kona_dinner.jpg %}
+
+吃完看演出，这是同乐队的合影。
+{% responsive_image path: images/d8/kona_band.jpg %}
+
+小孩子食欲就是好，看完演出又饿了。
+{% responsive_image path: images/d8/kona_dinner2.jpg %}
+
+我们离开了Kona, 驶往可爱岛。这应该是本次旅行最长的一段行程。
+{% responsive_image path: images/d8/kona_view.jpg %}
+
+--------------------
+
+整个车程(2个小时)的行车记录仪录像：
+
+优酷
+
+[第一集](http://v.youku.com/v_show/id_XMTQzOTA4NTQ2MA==.html)
+[第二集](http://v.youku.com/v_show/id_XMTQzOTA4ODE3Ng==.html) 
+
+YouTube: <https://youtu.be/DNmiB1K7lAw>
+

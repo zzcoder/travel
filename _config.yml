@@ -1,0 +1,40 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: === 旅行游记 ===
+email: zhihong@gmail.com 
+description: > # this means to ignore newlines until "baseurl:"
+  This is my travel blog site.
+baseurl: "/travel" # the subpath of your site, e.g. /blog
+url: "http://zzcoder.github.io/travel" # the base hostname & protocol for your site
+twitter_username: zhang 
+github_username:  zzcoder 
+
+# Build settings
+markdown: kramdown
+# destination: ../site
+gems: 
+  - jekyll/responsive_image
+
+responsive_image:
+  # [Required]
+  # Path to the image template.
+  template: _includes/responsive-image.html
+  output_path_format: images/resized/%{width}/%{basename}
+
+  # [Optional, Default: 85]
+  # Quality to use when resizing images.
+  default_quality: 90
+
+  # [Optional, Default: []]
+  # An array of resize configuration objects. Each object must contain at least
+  # a `width` value.
+  sizes:
+    - width: 480  # [Required] How wide the resized image will be.
+    - width: 740
+    - width: 1400

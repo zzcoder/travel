@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "夏威夷之旅 第五天 茂宜岛 哈纳公路"
+date:   2015-12-27
+categories: hawaii 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+![GPS Track]({{site.url}}/images/d5/hana-map.jpg)
+
+GPS记录的足迹  <https://goo.gl/JkbPJ2>
+
+----------------------------
+
+哈纳位于茂宜岛崎岖不平的东海岸，被认为是夏威夷最后一块没有遭到破坏的边疆。通往哈纳的著名公路距离卡互陆伊仅52英里（83公里），但车程需要2-4小时，因为一路都是狭窄的单车道小桥、U型急转弯和曼妙的海岛风光。哈纳公路 (HI-360) 上有620个弯道和59座桥梁。哈纳公路沿途穿越茂盛的雨林、飞流的瀑布、倾伏的池潭和壮观的海景。过了哈纳，再向南行进了10英里（16公里）到了奇帕胡鲁（Kipahulu）的哈雷阿卡拉国家公园（Haleakala National Park）的边缘。在那里您能发现著名的七圣池（Pools of Oheo），瀑布之水溅入层叠的水池，甚为壮观。
+
+一下船，我们就去拿出租车。
+{% responsive_image path: images/d5/rental.jpg %}
+
+找出租公司花去一些时间，出发时已10点多了。我们赶紧往哈纳公路开。刚出Kahului，就看到彩虹。
+{% responsive_image path: images/d5/rainbow.jpg %}
+
+一路上美景不断。但由于时间紧，也没有停留，边走边照。
+{% responsive_image path: images/d5/road1.jpg %}
+
+{% responsive_image path: images/d5/road2.jpg %}
+
+{% responsive_image path: images/d5/road3.jpg %}
+
+{% responsive_image path: images/d5/road4.jpg %}
+
+{% responsive_image path: images/d5/road5.jpg %}
+
+中途在Kaumahina State Wayside上厕所，风景也不错。
+{% responsive_image path: images/d5/bathroom.jpg %}
+
+{% responsive_image path: images/d5/bathroom2.jpg %}
+
+Waianapanapa State Park是第一个正经停留的景点，可天说变就变，我们匆匆照了几张相，便在倾盆大雨中逃离。
+{% responsive_image path: images/d5/park1.jpg %}
+
+{% responsive_image path: images/d5/park2.jpg %}
+
+在Hana Bay同另一辆车会合时，天已放晴。
+{% responsive_image path: images/d5/hana1.jpg %}
+
+终于到了七圣池，风景果然名不虚传。
+{% responsive_image path: images/d5/pool0.jpg %}
+
+{% responsive_image path: images/d5/pool0w.jpg %}
+
+因刚下过雨，去七圣池的路很泥泞。
+{% responsive_image path: images/d5/pool1.jpg %}
+
+四面的风景都不错。
+{% responsive_image path: images/d5/pool2.jpg %}
+
+{% responsive_image path: images/d5/pool3.jpg %}
+
+{% responsive_image path: images/d5/pool4.jpg %}
+
+{% responsive_image path: images/d5/pool5.jpg %}
+
+{% responsive_image path: images/d5/pool6.jpg %}
+
+在回来的路上，在Wailuaiki Bay瞭望点做了短暂的停留, 观赏景色。
+{% responsive_image path: images/d5/lookout.jpg %}
+
+原计划在Ho'okipa Beach Park观赏日落，但到达时夕阳已去，我们照了几张夜景便赶回码头，结束了紧张愉快的行程。
+{% responsive_image path: images/d5/sunset1.jpg %}
+
+{% responsive_image path: images/d5/sunset2.jpg %}
+
+--------------------
+
+整个行程(5个半小时)的行车记录仪录像：
+
+优酷:
+[第一集](http://v.youku.com/v_show/id_XMTQzNTg0Mjc0NA==.html)
+[第二集](http://v.youku.com/v_show/id_XMTQzNTg2MTE0OA==.html)
+[第三集](http://v.youku.com/v_show/id_XMTQzNTg2NzExMg==.html) 
+[第四集](http://v.youku.com/v_show/id_XMTQzNTg4NDk5Ng==.html) 
+[第五集](http://v.youku.com/v_show/id_XMTQzNTg4Mjk2OA==.html) 
+
+YouTube: <https://youtu.be/9VwNqwWUHko>
+

@@ -1,0 +1,168 @@
+---
+layout: post
+title:  "夏威夷之旅 第十一天 欧胡岛 檀香山 完结篇"
+date:   2016-01-02
+categories: hawaii 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+![photo]({{site.url}}/images/d11/route_honolulu2.jpg)
+
+今天是下船的日子。我们又重游了欧胡岛，看了檀香山附近几个上次漏掉的景点。
+{% responsive_image path: images/d11/track_honolulu2.jpg %}
+GPS轨迹 <https://goo.gl/mV6nwO>
+
+----------------------------
+
+游轮在晨曦中停靠在檀香山港.
+{% responsive_image path: images/d11/honolulu_pano.jpg %}
+
+朝阳下的钻石头山格外漂亮。
+{% responsive_image path: images/d11/diamond_head1.jpg %}
+
+船六点到码头，不到九点人都快下光了。我们飞机是下午5点的。早上给航空公司打电话，
+他们说下午一点才可办行李托运。我们这么多大包小包的，也没办法逛。
+去机场等又嫌时间太长。我们干脆联系了一家华人旅行社，带我们再游览一下檀香山附近。
+旅行社的车10点才到，我们在船上慢悠悠的等待。最后是被请下船的。
+我走在队伍最后，大概是最后一个下船的旅客。
+{% responsive_image path: images/d11/disembark_wait.jpg %}
+
+到码头，乘客都走光了，就剩我们的行李放在空旷的大厅里。倒不用找行李了。
+{% responsive_image path: images/d11/port_luggage.jpg %}
+
+旅行社派了一辆能座25人的小巴，我们全体坐下绰绰有余。
+{% responsive_image path: images/d11/mini_bus.jpg %}
+
+这车真能装，我们这么多行李，全放车后行李箱内了。
+{% responsive_image path: images/d11/mini_bus_luggage.jpg %}
+
+这等于我们自己组了个旅行团，自订线路，一直游到机场。
+{% responsive_image path: images/d11/on_bus.jpg %}
+
+----------------
+
+我们第一站是伊欧拉尼皇宫(Iolani Palace), 这是美国领土上唯一的皇宫。
+是1882年至1893年期间夏威夷王国最后两位君主的皇室官邸.
+我们也没时间进去，就在外面照了几张相。真是应进去了解一下夏威夷历史。
+我一直没明白，美国殖民主义者怎么不费一弹一子就把夏威夷搞到手的。
+那阿拉斯加不毛之地还花了大把银子(现在有黑金，但当时没人知道).
+{% responsive_image path: images/d11/iolani_palace.jpg %}
+{% responsive_image path: images/d11/iolani_palace2.jpg %}
+
+旁边法院门口有一个卡美哈美哈国王的雕像。他从茂宜岛打过来统一了夏威夷各岛。
+上次我们去的大风口，就是最后一次激战的古战场。这主大概也是昏君一个，
+让西方人控制捕鱼业和制糖业，导致了王国的最后灭亡。
+{% responsive_image path: images/d11/king_kamehameha.jpg %}
+
+-------------------
+
+下面我们去唐人街拜访了兴中会旧址。原址被大火烧掉了，现在这里是重建的孙中山商场。
+{% responsive_image path: images/d11/sun_zhong_shan_mall.jpg %}
+
+据说这里有几家不错的中餐馆。导游说这是国民党党产。国民党在檀香山势力很大，
+到处都看到党产。看来即使过几天大选败的一塌糊嘟，靠这些家底也可苟延残喘一阵子。
+{% responsive_image path: images/d11/sun_zhong_shan_mall2.jpg %}
+
+国民党的地盘，原来连个雕像也没有。据说这个孙中山雕像还是中山市赠送的。
+{% responsive_image path: images/d11/sun_zhong_shan_statue.jpg %}
+
+-------------------
+
+接着我们来到了神庙谷参观著名的日本寺庙平等院。
+{% responsive_image path: images/d11/byodo_in_temple.jpg %}
+
+这个仿制日本京都府佛寺的建筑，从上到下没有用一颗钉子。
+平等院于1968年建成，用于纪念夏威夷的第一批日本移民登岛一百周年。
+{% responsive_image path: images/d11/temple_structure.jpg %}
+
+进来后每人先敲一下圣钟。不像中国的寺院，这没发现收费的。门票只要两元。
+{% responsive_image path: images/d11/temple_bell.jpg %}
+
+小河里养满了锦鲤(Koi).
+{% responsive_image path: images/d11/temple_koi.jpg %}
+
+这养的鸡很怪，头上像是戴了顶草帽。
+{% responsive_image path: images/d11/temple_chicken.jpg %}
+
+在后面的竹林旁，在梅花桩上试着单腿打坐和其它姿势。
+{% responsive_image path: images/d11/temple_bamboo1.jpg %}
+{% responsive_image path: images/d11/temple_bamboo2.jpg %}
+{% responsive_image path: images/d11/temple_bamboo_pose.jpg %}
+
+有好多人在竹子上刻字。大部分是日本名字。看来这坏习惯不光国人有。
+{% responsive_image path: images/d11/temple_engraving.jpg %}
+
+------------------
+
+从平等院出来，跨过一片墓地，就是张学良墓地。不论历史功过，
+他毕竟改变了中国历史，我们决定拜谒一下这位公子哥。
+但从墓地穿过我们还是于心不忍，导游二话不说，带着我们上了墓地，说不踩在坟上就行。
+{% responsive_image path: images/d11/cemetery_walk.jpg %}
+
+这就是张公子和赵四的合葬墓。一位花花公子，最后也能从一而终，值得我们敬佩。
+{% responsive_image path: images/d11/cemetery_zhang.jpg %}
+
+神庙谷原本就是一个大墓地，张学良墓占领着制高点，仅次于船王包玉刚的家族墓地。
+据导游说，这块地是包家送的，为的是压住四周的日本人的墓。
+{% responsive_image path: images/d11/cemetery_pano.jpg %}
+
+张学良墓没有台阶，据说这是他的遗愿。以便他的老友座轮椅探望他。
+{% responsive_image path: images/d11/cemetery_ramp.jpg %}
+
+------------------
+
+还剩下一个多小时，导游建议我们去斗笠岛对面的库阿罗公园(Kualoa Park)玩一会儿. 
+斗笠岛原名“中国佬斗笠岛”，因带有歧视性，现改名叫Mokolii岛。
+反而中国人仍然沿用老名。
+{% responsive_image path: images/d11/mokolii.jpg %}
+
+公园的另一面是一座俊俏的山峰，著名的库阿罗牧场(Kualoa Ranch)就在山脚下。
+{% responsive_image path: images/d11/kualoa_mountain.jpg %}
+
+每个方向景色都不错。有人在垂钓。夏威夷钓鱼没有限制，不用买执照。
+{% responsive_image path: images/d11/kualoa_view.jpg %}
+
+我们在这尽情的拍照。
+{% responsive_image path: images/d11/kualoa_hat.jpg %}
+{% responsive_image path: images/d11/mokolii_group.jpg %}
+{% responsive_image path: images/d11/kualoa_group.jpg %}
+{% responsive_image path: images/d11/mokolii_jump.jpg %}
+
+试着戴这顶草帽。
+{% responsive_image path: images/d11/zhihong_hat.jpg %}
+{% responsive_image path: images/d11/ashley_hat.jpg %}
+
+孩子们试着叠罗汉。
+{% responsive_image path: images/d11/kualoa_pile.jpg %}
+
+时间到了，蓓蓓背这萌萌离开了这里。
+{% responsive_image path: images/d11/ashley_carry.jpg %}
+
+-------------------
+
+导游把我们按时送到了机场。
+{% responsive_image path: images/d11/honolulu_airport.jpg %}
+
+飞机从茂宜岛上空飞过。我们就此结束了紧张愉快的11天夏威夷之行。 Aloha!
+{% responsive_image path: images/d11/air_maui.jpg %}
+
+--------------------
+
+#### 后记
+
+在短短的11天我们走访了四个大岛的所有主要景点。游轮为我们提供了很大的方便，像一个游动的旅馆，
+我们不用拖着行李来回跑。在夏威夷让游客访问的岛屿中，还有两个游轮没有去。一个是摩洛凯岛(Molokai), 
+另一个是拉奈岛(Lanai), 下次一定找机会看看这两个岛。再见！
+
+--------------------
+
+#### 夏威夷行录像
+
+优酷：
+[第一集](http://v.youku.com/v_show/id_XMTQ0MjU1OTAxMg==.html)
+[第二集](http://v.youku.com/v_show/id_XMTQ0MjU2MTE2NA==.html)
+[第三集](http://v.youku.com/v_show/id_XMTQ0MjU2MDk0MA==.html)
+
+YouTube: <https://youtu.be/9RAxnXMbcNM>
+

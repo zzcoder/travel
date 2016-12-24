@@ -1,0 +1,178 @@
+---
+layout: post
+title:  "夏威夷之旅 第九天 可爱岛 环岛游"
+date:   2015-12-31
+categories: hawaii 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+![photo]({{site.url}}/images/d9/route_kauai.jpg)
+
+可爱岛是景色最为壮观的岛，全岛布满了拔地而起的山峰，像一个个鲜绿的高耸尖塔。
+大大小小的峡谷，随处可见。这里号称是世界上最湿的地方，降水量世界第一。
+但我们运气好，没遇上一场雨。
+
+因游轮要从夏威夷群岛的东南角一直走到西北角，早上十点才到码头。我们匆匆的开始了环岛之旅。
+据说为了让游客过夜，岛上公路没有连起来，害的我们几乎开了两圈的路程。
+
+{% responsive_image path: images/d9/track_kauai.jpg %}
+GPS轨迹  <https://goo.gl/LeXM4l>
+
+-------------------------------
+
+按照惯例，我一大早起来看日出。夏威夷日出不容易看着。好不容易，在乌云夹缝中看到两个半边太阳。
+合起来凑个整的。
+{% responsive_image path: images/d9/kauai_sunrise1.jpg %}
+{% responsive_image path: images/d9/kauai_sunrise2.jpg %}
+
+由于每天都在外边跑，两个孩子早上很难叫起。小孩对好山好水没啥兴趣，蓓蓓想白天在船上与朋友玩，
+这天没有与我们同行。
+{% responsive_image path: images/d9/kauai_bed.jpg %}
+
+---------------------------------
+
+早上第一个目的地是被誉为“太平洋的大峡谷”的威美亚峡谷(Waimea Canyon). 
+
+在路上看到峡谷我们就停下了。原来是Hanapepe Valley，虽然不大，但也挺壮观，五颜六色。
+{% responsive_image path: images/d9/kauai_lookout.jpg %}
+
+大家照相很卖力。
+{% responsive_image path: images/d9/kauai_lookout2.jpg %}
+{% responsive_image path: images/d9/kauai_lookout3.jpg %}
+{% responsive_image path: images/d9/kauai_lookout4.jpg %}
+
+夏威夷没看见什么野生动物，但遍地是鸡。
+{% responsive_image path: images/d9/kauai_chick.jpg %}
+
+-------------------
+
+可爱岛原住民比例较大，是保留当地民风最好的岛，美食也比较地道。我们先到了威美亚镇 (Waimea)，
+去著名的石原市场(Ishihara Market)品尝两样当地美食，poke(凉拌生鱼)和poi(芋头泥).
+{% responsive_image path: images/d9/kauai_market.jpg %}
+{% responsive_image path: images/d9/kauai_food.jpg %}
+
+不像日本生鱼片没啥调料，poke更像中国人的凉拌菜，里面有酱油，香油，紫菜，芝麻，葱花。
+这样对鱼肉要求不用那么高，所以poke比生鱼片便宜不少。
+poi是原住民初到时唯一的食物，就是把熟芋头捣成泥。我们买了一盒普通的，大家都尝了一两口。
+还买了一袋酸的，都咽不下去。我越吃越爱吃，像豆汁一样，后味无穷。可惜买的太少了。
+{% responsive_image path: images/d9/kauai_food2.jpg %}
+
+这也有库克船长的雕像，据说他是从这第一次登陆夏威夷的。
+{% responsive_image path: images/d9/kauai_cook.jpg %}
+
+------------------
+
+终于看到了久闻大名的威美亚峡谷(Waimea Canyon)。我没去过亚利桑那大峡谷，
+但从照片上看，这的颜色要好看多了。
+{% responsive_image path: images/d9/canyon1.jpg %}
+{% responsive_image path: images/d9/canyon2.jpg %}
+{% responsive_image path: images/d9/canyon3.jpg %}
+
+正好看到一架直升机从瀑布前飞过。
+{% responsive_image path: images/d9/chopper_fall.jpg %}
+
+这有人卖夏威夷包子，同中国包子味差不多，只不过馅比较怪。我买了个芒果馅的。
+{% responsive_image path: images/d9/kauai_dumpling.jpg %}
+
+在观景台上，有个原住民打扮的人在讲夏威夷历史。他说夏威夷群岛和欧亚大陆以前是连在一起的，
+他的祖先是走过来的。后来太平洋水涨高，夏威夷的高山变成了岛屿。看来全球变暖是真的了。
+{% responsive_image path: images/d9/kauai_native.jpg %}
+
+孩子们也在大峡谷前练练身手。
+{% responsive_image path: images/d9/kauai_climb.jpg %}
+
+我们一直向北开到了路的尽头，来到了Koke’e State Park. 这是在Kakalau Lookout从不同的角度看峡谷。
+{% responsive_image path: images/d9/canyon_lookout1.jpg %}
+
+来到了最后一个观景点Pu’u O Kila Lookout, 云缠雾罩的，有点像庐山的感觉。
+{% responsive_image path: images/d9/kalalau1.jpg %}
+{% responsive_image path: images/d9/kalalau2.jpg %}
+{% responsive_image path: images/d9/kalalau3.jpg %}
+{% responsive_image path: images/d9/kalalau4.jpg %}
+
+这有个牌子再一次提醒我们这是世界上雨水最多的地方。
+{% responsive_image path: images/d9/kauai_wet.jpg %}
+
+雾越来越大，瞬间就填满了整个峡谷。啥也看不到了，我们正好顺势结束了峡谷之行。
+开车往岛的另一个方向开。
+{% responsive_image path: images/d9/kalalau_fog.jpg %}
+{% responsive_image path: images/d9/kalalau_fog2.jpg %}
+
+-----------------------
+
+我们下一站是去岛的正北边，其实离我们所在位置的直线距离也就十几英里，
+可路不通，我们得绕回去再往北开。大约要开三个小时。
+
+美食是不能错过的。在东部小镇Kapaa有家有名的刨冰店Ono Ono, 
+我们品尝了一下。我本来就不喜欢刨冰，也没尝出好在哪，就是个头大。
+{% responsive_image path: images/d9/ono_ice1.jpg %}
+{% responsive_image path: images/d9/ono_ice2.jpg %}
+
+------------------
+
+Queen’s Bath (女王浴缸）是可爱岛北端著名的景点，但去过的人很少。
+我决定带大伙去看看。导航仪将我们带到了一个住宅小区的尽头，
+根本不像旅游景点。我在想，看来我这种从网上查资料的导游还是不灵。
+{% responsive_image path: images/d9/queens_bath_parking.jpg %}
+
+下车去问，有人说要想看，得到别人家的后院。有条小路可以走到，但你们这打扮够呛。
+还有一定危险。我们在停车场右边找到了一个小小的入口，开始往下走。
+里面是一条幽静的小路，不算难走。
+{% responsive_image path: images/d9/qb_entrance.jpg %}
+{% responsive_image path: images/d9/qb_trail1.jpg %}
+
+走了十几分钟就看到海了。
+{% responsive_image path: images/d9/qb_trail2.jpg %}
+
+在走上礁石的地方，有一块警告牌。上面写着：女王浴缸溺毙警告 
+随时而来的大浪会将你打下礁石，冲入大海
+{% responsive_image path: images/d9/qb_warning.jpg %}
+
+我们都走到这了，也管不了那么多了，还是一直走到目的地。
+冬天浪大，池子均被淹没。夏天看到的是这个样子，池水清澈见底。
+{% responsive_image path: images/d9/qb_photo.jpg %}
+
+我们看到的是这种景色。
+{% responsive_image path: images/d9/qb_bath1.jpg %}
+{% responsive_image path: images/d9/qb_bath2.jpg %}
+
+回去时尽管得用双手，但比来时容易多了。到车上天已快黑了。
+{% responsive_image path: images/d9/qb_back1.jpg %}
+
+---------------------
+
+原计划在日路之前赶到电影《南太平洋》中的哈纳雷码头(Hanalei Pier)，拍一张这样的照片。
+{% responsive_image path: images/d9/hanalei_sunset.jpg %}
+
+但我们赶到时，天已全黑。在夜幕下，还是可以感受到这里优美的环境。
+{% responsive_image path: images/d9/hanalei_pier1.jpg %}
+{% responsive_image path: images/d9/hanalei_pier2.jpg %}
+
+---------------------
+
+再往前就是著名的Na Pali海岸，夜晚啥也看不到。我们只有打道回府。回到船上已八点多。
+预订的晚餐也错过了。快九点才吃晚饭。晚饭后我们上顶层甲板参加了新年庆祝活动。
+{% responsive_image path: images/d9/new_year1.jpg %}
+{% responsive_image path: images/d9/new_year2.jpg %}
+
+当世界上最后一个地方敲响零点钟声时，有人跳进了泳池。
+{% responsive_image path: images/d9/new_year3.jpg %}
+
+我们在可爱岛迎来了2016.
+{% responsive_image path: images/d9/new_year4.jpg %}
+{% responsive_image path: images/d9/new_year5.jpg %}
+
+--------------------
+
+整个车程(5个小时)的行车记录仪录像：
+
+优酷：
+
+[第一集](http://v.youku.com/v_show/id_XMTQ0MDY3ODYwOA==.html)
+[第二集](http://v.youku.com/v_show/id_XMTQ0MDY4MTQxMg==.html) 
+[第三集](http://v.youku.com/v_show/id_XMTQ0MDY4NDEyNA==.html) 
+[第四集](http://v.youku.com/v_show/id_XMTQ0MDY5MjI4MA==.html) 
+
+YouTube: <https://youtu.be/haFku7e1AFg>
+

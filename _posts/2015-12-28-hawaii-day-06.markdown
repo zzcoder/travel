@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "夏威夷之旅 第六天 茂宜岛 看日出 潜水"
+date:   2015-12-28
+categories: hawaii 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+![GPS Track]({{site.url}}/images/d6/molokini-map.jpg)
+
+登山的GPS轨迹  <https://goo.gl/plbjnt>
+
+------------------
+
+上哈雷阿卡拉看日出一直是我的梦想。这次终于成行。
+
+哈雷阿卡拉国家公园（Haleakala National Park）横跨茂宜岛南部和东部海岸线，这里有茂宜岛最高峰。哈雷阿卡拉火山海拔10023英尺（3,055米），从岛上任何地点都能看到它优雅的山坡。哈雷阿卡拉在夏威夷语中意为“太阳之屋”。传说茂宜岛半人半神在太阳穿过天空时，站在火山顶把它套了起来，减慢了它下降的速度，让白天变得更长一些。这里是日出的最佳观赏地。在晴朗的早晨，在哈雷阿卡拉山顶看日出是终生难以忘怀的经历。即使是那些曾经多次目睹过这一景色的人也说他们从不曾看到两次相同的日出。
+
+我们2点起床，4点左右开车到山顶。我到时，停车位已满，工作人员指挥我停在马路边上。
+{% responsive_image path: images/d6/parking.jpg %}
+
+到达山顶时，晴空万里。从来没见过这么多星星，银河系是连成一片的。为了防止高原反应，我们在车上先睡了一会。
+{% responsive_image path: images/d6/sleep1.jpg %}
+
+这里海拔3000米, 啥反应也没有，自己吓唬自己。
+{% responsive_image path: images/d6/sign1.jpg %}
+
+刚睡了一个小时，天就变了，乌云密布。空气中弥漫着水汽，三脚架上的相机直滴水。结果日出没看着。太阳好高了才看见一点。
+{% responsive_image path: images/d6/sunrise2.jpg %}
+
+{% responsive_image path: images/d6/sunrise1.jpg %}
+
+山顶气温在零度左右，加上大风，非常冷。我们有备而来。但好多人穿着短裤就上山了。裹被子，毛巾，垃圾袋的都有。瞧我们这打扮，哪像在夏威夷。
+{% responsive_image path: images/d6/coat1.jpg %}
+
+山上的云走的飞快，跟放电影一样。天一会就晴了。天亮后，火山口别有一番景色，像是登上了火星。
+绝对不虚此行。这是山顶的天文台。
+{% responsive_image path: images/d6/tele1.jpg %}
+
+{% responsive_image path: images/d6/tele2.jpg %}
+
+火山口上的人们。
+{% responsive_image path: images/d6/background2.jpg %}
+
+这时，火山口上出现一道彩虹。
+
+{% responsive_image path: images/d6/crater1.jpg %}
+
+{% responsive_image path: images/d6/rainbow1.jpg %}
+
+{% responsive_image path: images/d6/rainbow2.jpg %}
+
+山顶上特有的植物。
+{% responsive_image path: images/d6/silversword.jpg %}
+{% responsive_image path: images/d6/plant.jpg %}
+
+看完日出后骑车下山是一项很受欢迎的旅游项目。我们下山时看到好多骑车的人。
+他们都有一辆押尾车, 我们无法超越，所以下山速度很慢。
+{% responsive_image path: images/d6/haleakala_bike.jpg %}
+
+-----------------------
+
+Molokini是茂宜岛旁边一个月牙型的珊瑚岛，是潜水圣地。好几个朋友推荐在这潜水。可是我们只有下午有时间，下午风浪大，船一般不去，只在岸边珊瑚礁上停留。订票时谈了半天，人家说不行。结果开船后，说今天天气特别好，可以去。
+
+在途中看到好多鲸鱼翻身，但太快，都没录下来。这里可以同时看到夏威夷第五，第六大岛 （右边是Molokai, 左边是Lanai, 被Oracle老板买下了）。
+{% responsive_image path: images/d6/lanai.jpg %}
+
+半小时后我们来到了月牙中央。
+{% responsive_image path: images/d6/molokini.jpg %}
+
+我们一队人马，没人敢潜水，都是浮潜(Snorkeling).
+{% responsive_image path: images/d6/snorkel1.jpg %}
+{% responsive_image path: images/d6/snorkel2.jpg %}
+{% responsive_image path: images/d6/feet.jpg %}
+
+十几米深的水，清澈见底，我刚下去还有点怕高，像是浮在空中，过了一段才适应。水中好多鱼和乌龟。
+{% responsive_image path: images/d6/fish1.jpg %}
+{% responsive_image path: images/d6/fish2.jpg %}
+{% responsive_image path: images/d6/fish3.jpg %}
+
+--------------------
+
+回到船上，赶上日落。
+{% responsive_image path: images/d6/maui_sunset1.jpg %}
+
+我们在夕阳中驶往大岛。
+{% responsive_image path: images/d6/maui_sunset2.jpg %}
+
+--------------------
+
+登山的行程(3个小时)的行车记录仪录像：
+
+优酷
+
+[第一集](http://v.youku.com/v_show/id_XMTQzNzMxNzU4MA==.html)
+[第二集](http://v.youku.com/v_show/id_XMTQzNzMyMjM1Ng==.html) 
+[第三集](http://v.youku.com/v_show/id_XMTQzNzMyNTAyMA==.html) 
+
+YouTube: <https://youtu.be/uX7d1uOR6Qc>
+

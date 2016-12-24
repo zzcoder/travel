@@ -1,0 +1,134 @@
+---
+layout: post
+title:  "夏威夷之旅 第十天 可爱岛 威陆亚河 纳帕利海岸"
+date:   2016-01-01
+categories: hawaii 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+![photo]({{site.url}}/images/d9/route_kauai.jpg)
+
+昨天公路断开的地方就是纳帕利海岸(Na Pali Coast), 是可爱岛的必看景色,
+有直插天际的碧绿悬崖和流下深邃狭窄山谷的层叠的瀑布。但这雄伟壮观的景色，
+只有在海上或空中才可领略. 所以游轮2点就启航, 以便在天黑之前沿北岸走两遍，
+保证左右弦的旅客都可以看到这美景。 (这张照片盗自网络).
+{% responsive_image path: images/d10/na_pali_coast.jpg %}
+
+由于只有半天时间，我们决定早上先去座游船看Fern Grotto, 然后在沙滩上玩一会儿就上船。
+
+-------------------
+
+夏威夷日出与我无缘。最后一次机会，仍是在乌云夹缝中看着太阳升起。
+{% responsive_image path: images/d10/day10_sunrise1.jpg %}
+{% responsive_image path: images/d10/day10_sunrise2.jpg %}
+{% responsive_image path: images/d10/day10_sunrise3.jpg %}
+
+--------------------
+
+早上9点多，我们分批乘出租赶到码头，坐上了游艇。
+威陆亚河（Wailua River）是夏威夷唯一可以通航的河。河水平坦，两岸风光迤逦。
+{% responsive_image path: images/d10/river_boat1.jpg %}
+{% responsive_image path: images/d10/river_boat2.jpg %}
+
+河两岸长满了茂密的树木，根本看不到岸在何方。一路上都有划独木舟(Kayak)的人向我们招手。
+{% responsive_image path: images/d10/river_kayak.jpg %}
+
+一路上有夏威夷歌舞相伴，还教游客跳草裙舞(Hula). 同电影中的呼啦美女不同，
+我们在夏威夷看到的当地美女大多是这种膀粗腰圆的，跳起舞来浑身的肉都在抖动，别有韵味。
+{% responsive_image path: images/d10/river_hula.jpg %}
+
+船行20多分钟就到了羊齿洞穴的码头。这个景点不通公路，只有水路和步行才能看到。
+{% responsive_image path: images/d10/fern_grotto1.jpg %}
+
+夏威夷到处都像植物园，长满了奇花异草。通往洞穴的小路也不例外。
+{% responsive_image path: images/d10/fern_grotto2.jpg %}
+{% responsive_image path: images/d10/fern_grotto3.jpg %}
+
+所谓的羊齿洞穴就是这么一个小山洞。2006年一次海啸严重损坏了洞穴，从此就不让人进了。
+上面的植被也被冲走不少，现在看起来有点秃。
+{% responsive_image path: images/d10/fern_grotto4.jpg %}
+
+这就是羊齿草的特写。
+{% responsive_image path: images/d10/fern_grotto_fern.jpg %}
+
+这是个照相的好地方，有好多婚礼在这举办。我们边照相，边听工作人员讲解洞穴的传说。
+{% responsive_image path: images/d10/fern_grotto5.jpg %}
+{% responsive_image path: images/d10/fern_grotto6.jpg %}
+
+与船上乐队合影。右边这个小伙看起来像不像火星哥布鲁诺(Bruno Mars)？
+布鲁诺也是夏威夷人，从小随家庭乐队到处演唱, 模仿猫王，也许也在这条船上打过工。
+这小伙刚才也唱了好几首猫王的歌。
+{% responsive_image path: images/d10/fern_grotto7.jpg %}
+{% responsive_image path: images/d10/fern_grotto8.jpg %}
+
+厕所往这边走ʘ‿ʘ
+{% responsive_image path: images/d10/fern_grotto9.jpg %}
+
+回来的路上看到一处原始村落。
+{% responsive_image path: images/d10/fern_grotto_village.jpg %}
+
+在回码头的路上，出租司机在讲我以前公司的大老板Steve Case是可爱岛的最大地主，
+左前方这整片土地都是他的。
+{% responsive_image path: images/d10/case_land.jpg %}
+
+------------------------
+
+出租车给我们送到码头附近的Kalapaki沙滩。孩子们直接下水开始玩。
+{% responsive_image path: images/d10/kauai_beach1.jpg %}
+
+不知几个女孩从哪找来一个椰子。
+{% responsive_image path: images/d10/kauai_coconut1.jpg %}
+
+几个人五马分尸愣是把椰子掰开了。
+{% responsive_image path: images/d10/kauai_coconut2.jpg %}
+
+椰子汁还挺多。我尝了一下椰肉，比买的还好吃。
+{% responsive_image path: images/d10/kauai_coconut3.jpg %}
+
+孩子们准备试试浆板(Paddle Board)。
+{% responsive_image path: images/d10/paddle1.jpg %}
+
+这架势有点像打鱼的。
+{% responsive_image path: images/d10/paddle_brandon.jpg %}
+
+小孩们都有体育功底，用不了多久都可以站着划。
+{% responsive_image path: images/d10/paddle2.jpg %}
+{% responsive_image path: images/d10/paddle3.jpg %}
+{% responsive_image path: images/d10/paddle4.jpg %}
+
+时间到了，在往船上走。像一只逃难的队伍。
+{% responsive_image path: images/d10/kauai_beach2.jpg %}
+
+----------------
+
+到船上稍作歇息，就到晚饭时间了。今天专门预订的法式大餐，只有5点钟有座。
+{% responsive_image path: images/d10/kauai_french_dinner.jpg %}
+
+席间，我一直在看手机上的导航APP并不断出去打探, 看啥时到纳帕利海岸。
+刚点完菜，船就到纳帕利附近了。
+
+也许夏威夷也有PM2.5，能见度不是很好。但仍能感受到绝壁断崖的雄姿。
+{% responsive_image path: images/d10/napali1.jpg %}
+{% responsive_image path: images/d10/napali1a.jpg %}
+
+我们跟餐厅商量了一下，他们同意我们先上甲板照像。甲板上挤满了照相和观景的人们。
+{% responsive_image path: images/d10/napali2.jpg %}
+
+自己照可以勉强看到陡峭的山峰。
+{% responsive_image path: images/d10/napali3.jpg %}
+
+让别人照只能看到山脚。
+{% responsive_image path: images/d10/napali4.jpg %}
+
+照完像后，我们回到餐厅，开始吃一道一道的法国菜, 在美酒佳肴的陪伴下，度过了愉快的2016年元旦。
+{% responsive_image path: images/d10/kauai_french_dinner2.jpg %}
+
+--------------------
+
+威陆亚河两岸风光的录像：
+
+优酷：[youku.com](http://v.youku.com/v_show/id_XMTQ0MTU1MjMyMA==.html)
+
+YouTube: <https://youtu.be/LLl05PRYQjs>
+

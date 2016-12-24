@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "夏威夷之旅 第四天 欧胡岛 威基基 登船"
+date:   2015-12-26
+categories: hawaii 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+![photo]({{site.url}}/images/d4/pride_of_america.jpg)
+
+-------------------
+
+这是登船的日子，早上我们去威基基海滩玩了一会。一到海滩就看到一道彩虹。
+{% responsive_image path: images/d4/waikiki_rainbow.jpg %}
+{% responsive_image path: images/d4/d4_waikiki_beach1.jpg %}
+{% responsive_image path: images/d4/d4_waikiki_beach2.jpg %}
+{% responsive_image path: images/d4/d4_waikiki_beach3.jpg %}
+
+突然下起了雨，我们都往海里跑。
+{% responsive_image path: images/d4/d4_waikiki_rain.jpg %}
+
+同中央电视台一样的视角。透过大裤衩看世界。
+{% responsive_image path: images/d4/d4_waikiki_legs.jpg %}
+
+上衣装包里让他们带走了，我光着背在檀香山大街上走。
+{% responsive_image path: images/d4/d4_waikiki_back1.jpg %}
+
+--------------------
+
+中午我们登上了Pride of America游轮。按照夏威夷的习惯，每人都给带上花环。都是真花做的。
+{% responsive_image path: images/d4/poa_lei1.jpg %}
+{% responsive_image path: images/d4/poa_lei.jpg %}
+
+上船就吃
+{% responsive_image path: images/d4/d4_lunch1.jpg %}
+
+吃完马上去看演出
+{% responsive_image path: images/d4/d4_show1.jpg %}
+{% responsive_image path: images/d4/d4_show2.jpg %}
+
+在船上吃第一顿晚餐。因经常订不到大桌子，我们总是小孩，爸爸，妈妈各一桌。
+{% responsive_image path: images/d4/d4_men.jpg %}
+{% responsive_image path: images/d4/d4_women.jpg %}
+{% responsive_image path: images/d4/d4_kids.jpg %}
+
+在晚霞中我们驶离檀香山
+{% responsive_image path: images/d4/d4_sunset.jpg %}
+

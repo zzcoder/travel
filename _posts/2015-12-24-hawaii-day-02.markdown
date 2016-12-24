@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "夏威夷之旅 第二天 欧胡岛 珍珠港 文化村"
+date:   2015-12-24
+categories: hawaii 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+![photo]({{site.url}}/images/d1/route-honolulu1.jpg)
+
+今天是标准动作，玩了檀香山最热门的两个景点，珍珠港和民族村。
+
+--------------------
+
+我一直认为珍珠港对中国的影响比美国还要大。如果没有珍珠港，美国可能不会统治太平洋，但中国肯定亡国。
+
+原计划是$2.5游珍珠港，要赶上凌晨5:30的公车才行。结果晚到3分钟，错过第一班公车，又等了半小时。
+免费的亚利桑那舰票太晚了，只有花$25上密苏里。
+{% responsive_image path: images/d2/bus_dark.jpg %}
+{% responsive_image path: images/d2/bus_ride.jpg %}
+
+结果发现密苏里看亚利桑那更清楚。在访客中心只能看到亚利桑那纪念馆的轮廓。
+{% responsive_image path: images/d2/pearl_habor1.jpg %}
+
+这是世界上最先进的炮舰，这炮海湾战争期间还用过。
+{% responsive_image path: images/d2/ship_gun.jpg %}
+
+这是二战结束的地方。当时签字的桌子就摆在这。
+{% responsive_image path: images/d2/missouri_spot.jpg %}
+
+密苏里上比武力，瞧那蔑视的目光。
+{% responsive_image path: images/d2/arm_wrestling.jpg %}
+
+身后就是亚利桑那纪念馆，建在沉船上面。
+{% responsive_image path: images/d2/arizona1.jpg %}
+{% responsive_image path: images/d2/pearl_habor2.jpg %}
+{% responsive_image path: images/d2/pearl_habor3.jpg %}
+{% responsive_image path: images/d2/arizona_closeup.jpg %}
+
+檀香山公车票在三小时内可以重复使用。我们耽搁太久，回程票还得重买。“$2.5游珍珠港”计划彻底失败。
+
+--------------------
+
+回到旅馆文化村的车已经在等我们了，没进旅馆，没吃一口饭，马不停蹄的又上车了。
+文化村接旅客也有导游，这家伙话可真多，管谁都称亲戚。
+{% responsive_image path: images/d2/pcc_bus.jpg %}
+
+车沿着欧胡岛的东岸走。这一片叫迎风海岸(Windward Coast), 风光迤逦。图中有乌龟岛，和斗笠岛。
+{% responsive_image path: images/d2/pcc_trip1.jpg %}
+{% responsive_image path: images/d2/pcc_trip2.jpg %}
+{% responsive_image path: images/d2/pcc_trip3.jpg %}
+
+导游说这山是一个沉睡的王子，我啥也没看出来。
+{% responsive_image path: images/d2/pcc_trip4.jpg %}
+
+波利尼西亚文化村是摩门教办的，工作人员都是杨百翰的学生和老年义工，钱赚大了，还非赢利。
+
+刚进门没多久，水上表演就开始了。
+{% responsive_image path: images/d2/pcc_parade1.jpg %}
+{% responsive_image path: images/d2/pcc_show1.jpg %}
+
+夏威夷晴天也下雨。
+{% responsive_image path: images/d2/pcc_rain.jpg %}
+
+文化村有夏威夷，新西兰，斐济，大溪地，萨摩亚，东加等六个群岛的村落。
+大多数演员和工作人员都是杨百翰夏威夷分校的学生。他们专门去这些岛屿招收学生，
+并提供奖学金。外国学生不能工作，但由于文化村在校园内，他们算合法打工。
+{% responsive_image path: images/d2/pcc_show2.jpg %}
+{% responsive_image path: images/d2/pcc_fiji.jpg %}
+{% responsive_image path: images/d2/pcc_fiji2.jpg %}
+
+文化村里大多是表演，没什么游戏项目。扔竹竿是我们参加的唯一游戏。
+{% responsive_image path: images/d2/pcc_game.jpg %}
+
+我们的门票带晚餐。坐着船去餐厅。
+{% responsive_image path: images/d2/pcc_canoe.jpg %}
+
+巨大的餐厅，我们圣诞除夕就在这度过。
+{% responsive_image path: images/d2/pcc_dining_hall.jpg %}
+{% responsive_image path: images/d2/pcc_dinner.jpg %}
+
+晚饭后就去看文化村的压轴戏，大型晚会《生命之歌》。
+有上百名演员表演代表各个群岛的歌舞。
+{% responsive_image path: images/d2/pcc_night_show.jpg %}
+
+看完演出，已晚上9点多，我们结束了紧凑的文化村半日游。
+{% responsive_image path: images/d2/pcc_statue.jpg %}
+
+------------------
+
+回到歪唧唧(Waikiki)的旅馆真好看到几十年才有一回的圣诞圆月，好像比大陆的更明亮。
+{% responsive_image path: images/d2/pcc_moon.jpg %}
+{% responsive_image path: images/d2/xmas_moon.jpg %}

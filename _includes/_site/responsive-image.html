@@ -1,0 +1,15 @@
+{% capture cls %}img_{{original.basename | replace: '.', '_'}}__delayed{% endcapture %}
+
+<div class="clickable-image">
+<a href="/travel/{{path}}">
+<div class="responsive-image">
+    <div class="{{cls}}" data-src="/travel/images/resized/{width}/{{ original.basename }}"></div>
+</div>
+</a>
+</div>
+<p />
+<script>
+    new Imager(".{{cls}}", {
+        availableWidths: [{{ resized | map: 'width' | join: ', ' }}]
+    });
+</script>

@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "夏威夷之旅 第三天 欧胡岛 潜艇 半日游"
+date:   2015-12-25
+categories: hawaii 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+2015年的圣诞节是在欧胡岛上度过的。
+
+![photo]({{site.url}}/images/d3/track_oahu1.jpg)
+
+半日游的GPS轨迹：  <https://goo.gl/0uHmAe>
+
+--------------------
+
+早上我们座观光潜艇看海底风光。先要坐船到潜艇停泊的海域。码头就在威基基的沙滩上。
+{% responsive_image path: images/d3/sub_trip1.jpg %}
+{% responsive_image path: images/d3/sub_trip2.jpg %}
+{% responsive_image path: images/d3/sub_boat1.jpg %}
+
+从海上看威基基的秀丽景色。
+{% responsive_image path: images/d3/sub_waikiki.jpg %}
+
+登上潜艇。
+{% responsive_image path: images/d3/sub_boat2.jpg %}
+
+在水下我们看起来都像是阿凡达中的蓝人。
+{% responsive_image path: images/d3/sub_inside1.jpg %}
+{% responsive_image path: images/d3/sub_inside2.jpg %}
+{% responsive_image path: images/d3/sub_inside3.jpg %}
+
+人眼是最好的相机。水下好多东西眼看得到但照不下来。闪光灯也照不了多远。
+{% responsive_image path: images/d3/sub_fish1.jpg %}
+{% responsive_image path: images/d3/sub_fish2.jpg %}
+
+沉船上卧着一只海龟。
+{% responsive_image path: images/d3/sub_turtle.jpg %}
+
+从潜艇出来，在船上小憩一会儿。
+{% responsive_image path: images/d3/sub_return1.jpg %}
+
+沙滩上有人办教堂，听的人还挺多。
+{% responsive_image path: images/d3/sub_church.jpg %}
+
+中午时分，我们乘车返回旅馆。来时满满的车，回程就剩我们一队人马。
+{% responsive_image path: images/d3/sub_return2.jpg %}
+
+--------------------
+
+旅馆对面是一家有名的乌冬面馆, 叫丸龟制面，但从早到晚都排长队。
+今天中午正好有一个多小时午饭时间，我们决定试试。
+排了40分钟队。但名不虚传，物超所值。面条都是现场制作的。
+{% responsive_image path: images/d3/udon1.jpg %}
+{% responsive_image path: images/d3/udon2.jpg %}
+
+乌冬面条比筷子还粗，吃起来很有筋道。
+{% responsive_image path: images/d3/udon3.jpg %}
+
+还吃到了夏威夷特有的午餐肉饭团(Spam Musubi).
+{% responsive_image path: images/d3/udon4.jpg %}
+
+--------------------
+
+下午加入了一个半日游，典型的到此一游式旅游团。不是我喜欢的旅游方式，但时间有限，只有这样了。风光还是不错的。
+{% responsive_image path: images/d3/oahu_trip_bus.jpg %}
+
+第一站是钻石头山下的观景点。
+{% responsive_image path: images/d3/oahu_trip_diamond.jpg %}
+{% responsive_image path: images/d3/oahu_trip_diamond2.jpg %}
+
+来到了著名的喷水口。
+{% responsive_image path: images/d3/oahu_tour_blow.jpg %}
+
+导游说旁边是一处天体海滩。
+{% responsive_image path: images/d3/oahu_trip_beach0.jpg %}
+
+拿出我2000mm的长焦，啥也没看着。
+{% responsive_image path: images/d3/oahu_trip_beach.jpg %}
+
+Pali古战场，中国人叫大风口。名不虚传，风的确不小。
+{% responsive_image path: images/d3/pali1.jpg %}
+{% responsive_image path: images/d3/pali2.jpg %}
+{% responsive_image path: images/d3/pali3.jpg %}
+
+--------------------
+
+由于是圣诞节，晚上所有吃饭的地方都爆满，我们只有在海滩上溜达溜达。
+{% responsive_image path: images/d3/d3_waikiki0.jpg %}
+{% responsive_image path: images/d3/d3_waikiki1.jpg %}
+{% responsive_image path: images/d3/d3_waikiki2.jpg %}
+{% responsive_image path: images/d3/d3_waikiki3.jpg %}
+
+同警察聊聊天。
+{% responsive_image path: images/d3/waikiki_police.jpg %}
+
+最后找到一家中餐馆，度过了一个美好的圣诞节。
+{% responsive_image path: images/d3/d3_restaurant.jpg %}
+{% responsive_image path: images/d3/d3_dinner1.jpg %}
+{% responsive_image path: images/d3/d3_dinner2.jpg %}

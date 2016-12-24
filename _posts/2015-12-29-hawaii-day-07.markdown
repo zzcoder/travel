@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "夏威夷之旅 第七天 大岛 希洛"
+date:   2015-12-29
+categories: hawaii 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+![photo]({{site.url}}/images/d7/route-hilo.jpg)
+
+下一站我们来到最大的岛，夏威夷岛。整个夏威夷群岛以该岛命名，为避免混淆，大家都管它叫大岛。大岛上的
+火山活动频繁，不停有火山岩流入大海，所以岛的面积还在扩大。
+
+我们这一天走访了火山公园(包括Thurston火山岩洞), Akaka瀑布，黑沙滩，彩虹瀑布。
+{% responsive_image path: images/d7/track-hilo.jpg %}
+
+GPS轨迹  <https://goo.gl/j4ZVGN>
+
+-----------------------
+
+大岛上有太平洋最高山脉Mauna Kea. 美国最大的望远镜就在山顶的Keck天文台。
+一上路，就看到Mauna Kea在我们右方。
+{% responsive_image path: images/d7/keck.jpg %}
+
+我们首先开车去夏威夷火山国家公园（Hawaii Volcanoes National Park），
+这里有两个活火山：茂纳洛亚火山（最后一次喷发发生在1984年）和基拉韦厄（自1983年1月3日起连续喷发）。
+其中基拉韦厄火山（Kilauea volcano)是地球上最活跃的火山之一，被称为“全世界唯一可开车进入的火山”。
+
+公园像在一个大蒸笼里，到处都冒着热气。
+{% responsive_image path: images/d7/steam1.jpg %}
+{% responsive_image path: images/d7/steam2.jpg %}
+{% responsive_image path: images/d7/steam3.jpg %}
+
+这座火山每天产生250,000-650,000立方码（191,138-496,960立方米）的熔岩，足以铺好一条长20英里（32公里）的双车道公路。据说晚上可以看到火山岩发亮。我们只能看到到处冒烟。
+{% responsive_image path: images/d7/volcano1.jpg %}
+{% responsive_image path: images/d7/volcano2.jpg %}
+{% responsive_image path: images/d7/volcano3.jpg %}
+
+然后我们去看了瑟尔斯顿熔岩通道 (Nahuku)。炽热的岩浆曾经流经地下通道，而地下通道的墙冷却凝固后，
+形成了巨大的空洞，通道由此形成。通道末端有一个葱郁繁茂的热带雨林。
+{% responsive_image path: images/d7/lava_tube.jpg %}
+
+---------------------
+
+从火山下来后，我们去看了一个有黑沙的海滩。
+{% responsive_image path: images/d7/black_sand1.jpg %}
+{% responsive_image path: images/d7/black_sand2.jpg %}
+
+萌萌为照海龟，掉进了水里。
+{% responsive_image path: images/d7/brandon_fall.jpg %}
+
+小孩们捡一个树枝也能玩半天。
+{% responsive_image path: images/d7/tree_branch.jpg %}
+
+-----------------------
+
+下一站是阿卡卡瀑布。一路上植被茂密。
+{% responsive_image path: images/d7/akaka1.jpg %}
+{% responsive_image path: images/d7/akaka2.jpg %}
+{% responsive_image path: images/d7/akaka3.jpg %}
+
+终于看到瀑布了，比想象的还要壮观。
+{% responsive_image path: images/d7/akaka_fall1.jpg %}
+{% responsive_image path: images/d7/akaka_fall2.jpg %}
+{% responsive_image path: images/d7/akaka_fall3.jpg %}
+
+回来的路上可以看到很多这样的小溪。
+{% responsive_image path: images/d7/akaka_creek.jpg %}
+
+------------------------
+
+在还车的路上，顺便看了一下彩虹瀑布，也没看见彩虹。瀑布比阿卡卡逊色不少。
+{% responsive_image path: images/d7/rainbow_fall1.jpg %}
+
+回到船上没多久，船就在夕阳下离开希洛，驶往大岛的另一边。
+{% responsive_image path: images/d7/hilo_pano.jpg %}
+
+--------------------
+
+整个车程(4个小时)的行车记录仪录像：
+
+优酷
+
+[第一集](http://v.youku.com/v_show/id_XMTQzODQ4NTMyOA==.html)
+[第二集](http://v.youku.com/v_show/id_XMTQzODQ5ODI4NA==.html) 
+[第三集](http://v.youku.com/v_show/id_XMTQzODUwNTM2OA==.html) 
+
+YouTube: <https://youtu.be/q6FPff1pOso>
+

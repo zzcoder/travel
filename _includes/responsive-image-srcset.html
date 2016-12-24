@@ -1,0 +1,7 @@
+{% capture srcset %}
+    {% for i in resized %}
+        /travel/{{ i.path }} {{ i.width }}w,
+    {% endfor %}
+{% endcapture %}
+
+<img src="/{{ path }}" srcset="{{ srcset | strip_newlines }} /travel/{{ original.path }} {{ original.width }}w">
