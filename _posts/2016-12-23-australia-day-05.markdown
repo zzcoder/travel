@@ -70,11 +70,11 @@ categories: australia
 {% responsive_image path: images/oz5/DSC08077-lookout1-1.JPG %}
 {% responsive_image path: images/oz5/DSC08081-lookout1-2.JPG %}
 
-我们在原定好的午餐地点Dancing Waters Cafe回合。在山上，这午餐算很不错了。
+我们在原定好的午餐地点Dancing Waters Cafe汇合。在山上，这午餐算很不错了。
 {% responsive_image path: images/oz5/DSC08087-lunch1.JPG %}
 {% responsive_image path: images/oz5/DSC08084-lunch2.JPG %}
 
-餐馆就在一个瀑布观景台的入口处。我们吃晚饭去看瀑布。路上看到一个大树根。
+餐馆就在一个瀑布观景台的入口处。我们吃完饭去看瀑布。路上看到一个大树根。
 {% responsive_image path: images/oz5/DSC08092-fall-stump.JPG %}
 {% responsive_image path: images/oz5/DSC08098-fall-stump2.JPG %}
 
