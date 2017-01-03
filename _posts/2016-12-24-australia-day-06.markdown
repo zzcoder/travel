@@ -101,7 +101,7 @@ categories: australia
 酒店里一片节日景象，布置着一颗巨大的圣诞树，还有乐队演奏圣诞音乐。
 {% responsive_image path: images/oz6/DSC08350-xmas-tree.JPG %}
 
-吃晚饭又去对面的赌场逛了逛，没赌。
+吃完饭又去对面的赌场逛了逛，没赌。
 {% responsive_image path: images/oz6/DSC08352-casino.JPG %}
 {% responsive_image path: images/oz6/DSC08356-led-floor.JPG %}
 
