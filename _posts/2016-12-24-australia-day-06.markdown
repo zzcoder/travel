@@ -82,7 +82,7 @@ categories: australia
 像是一个个倒挂着的烧鸡。
 {% responsive_image path: images/oz6/DSC08313-bat.JPG %}
 
-夜幕降临是，我们前往一家酒店去吃圣诞除夕晚餐。
+夜幕降临时, 我们前往一家酒店去吃圣诞除夕晚餐。
 {% responsive_image path: images/oz6/DSC08318-walk-to-dinner.JPG %}
 
 晚餐是在城里最大的酒店Pullman International.
@@ -106,5 +106,5 @@ categories: australia
 {% responsive_image path: images/oz6/DSC08356-led-floor.JPG %}
 
 回旅馆的时候注意的这个指示牌上用中文写着旅馆的方向是唐人街，
-但我们没有看到任何店铺。可能是又一个消失的唐人街。
+但我们没有看到任何有中文标志的店铺。可能是又一个消失的唐人街。
 {% responsive_image path: images/oz6/DSC08361-china-town.JPG %}
