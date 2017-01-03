@@ -9,7 +9,7 @@ categories: australia
  
 ![photo]({{site.url}}/images/oz7/DSC08473-gorge1.JPG)
 
-这一天是圣诞节，所有旅游项目都关门，国家公园大门还是敞开的，
+这一天是圣诞节，所有旅游景点都关门，只有国家公园大门还是敞开的，
 所以我们去了以热带雨林而闻名的丹翠国家公园(Daintree National Park),
 度过了一个独特的圣诞节。
 
