@@ -126,7 +126,7 @@ categories: australia
 
 潜水的360度全景录像：
 
-* 在手机上要用优酷/YouTube app看，否则只能看到变形的视频 *
+*在手机上要用优酷/YouTube app看，否则只能看到变形的视频*
 
 优酷:
 [第一集](http://v.youku.com/v_show/id_XMTg5OTI2ODcyNA==.html)
