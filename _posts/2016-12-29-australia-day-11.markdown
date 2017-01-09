@@ -174,5 +174,31 @@ Wongarra, Lorne, Anglesea, 由于时间匆促都没停。
 
 12门徒
 
-<http://720yun.com/t/fb4jOdykum3?pano_id=2039096>
+<http://720yun.com/t/fb4jOdykum3>
+<http://720yun.com/t/360jOdykuO9>
+<http://720yun.com/t/16djOdykry4>
+
+吉步森台阶
+
+<http://720yun.com/t/29bjOdykrn4>
+
+奥特韦树顶漫步
+
+<http://720yun.com/t/f75jOdykrO4>
+<http://720yun.com/t/2cfjOdyfsu1>
+<http://720yun.com/t/301jOdyfsa6>
+<http://720yun.com/t/115jOdyfsk2>
+<http://720yun.com/t/7a2jOdyfsy2>
+<http://720yun.com/t/69fjOdyfOv8>
+<http://720yun.com/t/792jOdyfOa3>
+<http://720yun.com/t/9fejOdyfOa9>
+<http://720yun.com/t/6dbjOdyfOk3>
+<http://720yun.com/t/2a3jOdyfOk8>
+<http://720yun.com/t/24cjOdyfOf7>
+<http://720yun.com/t/21cjOdyfOy5>
+
+
+
+
+
 
