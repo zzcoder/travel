@@ -76,7 +76,7 @@ categories: australia
 这是主纪念堂。
 {% responsive_image path: images/ozc/DSC09030-hall.JPG %}
 
-两侧的墙上写满了阵亡将士的名字，挂满了鲜花。录音机在不断念这每人的名字。
+两侧的墙上写满了阵亡将士的名字，挂满了鲜花。录音机在不断念着每人的名字。
 {% responsive_image path: images/ozc/DSC09040-flower-wall.JPG %}
 
 从纪念馆出来，我们打算找点吃的。这是元旦前的周五下午5点，堪培拉简直就是一个鬼城，
